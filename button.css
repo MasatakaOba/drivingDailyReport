@@ -1,0 +1,201 @@
+@charset "UTF-8";
+
+input.button {
+   /*インプットボタンに書式を反映*/
+    -webkit-appearance: none;
+
+    /*配置を右寄せ*/
+    float: right;
+    /*ボタンのサイズ*/
+    width: 75px;
+
+    /*ボタン内の文字の中央揃え */
+    text-align: center;
+
+    margin: 2px 3px;
+
+    /* 文字サイズを1.4emに指定 */
+    font-size: 0.8em;
+
+    /* 文字の太さをboldに指定 */
+    font-weight: bold;
+
+    /* 縦方向に8px、
+     * 横方向に20pxの余白を指定 */
+    padding-top:8px;
+    padding-bottom:8px;
+
+    /* 背景色を濃い青色に指定 */
+    background-color: #248;
+
+    /* 文字色を白色に指定 */
+    color: #fff;
+
+    /* ボーダーをなくす */
+    border-style: none;
+
+    /* ボタンの影の指定
+     * 影の横幅を2px
+     * 縦長を2px
+     * ぼかしを3px
+     * 広がりを1px
+     * 色を#666（グレー）に指定 */
+    box-shadow: 2px 2px 3px 1px #666;
+    -moz-box-shadow: 2px 2px 3px 1px #666;
+    -webkit-box-shadow: 2px 2px 3px 1px #666;
+}
+
+input.button:hover {
+    /* 背景色を明るい青色に指定 */
+    background-color: #24d;
+
+    /* 文字色を白色に指定 */
+    color: #fff;
+}
+
+button.button {
+    /*インプットボタンに書式を反映*/
+     -webkit-appearance: none;
+
+     /*配置を右寄せ*/
+     float: right;
+     width: 75px;
+
+     /*ボタン内の文字の中央揃え */
+     text-align: center;
+
+     /*ボタンの間の余白をあける*/
+     margin: 2px 5px;
+
+    /* 文字サイズを1.4emに指定 */
+    font-size: 0.8em;
+
+    /* 文字の太さをboldに指定 */
+    font-weight: bold;
+
+    /* 縦方向に8pxの余白を設定*/
+    padding-top:8px;
+    padding-bottom:8px;
+
+    /* 背景色を濃い青色に指定 */
+    background-color: #248;
+
+    /* 文字色を白色に指定 */
+    color: #fff;
+
+    /* ボーダーをなくす */
+    border-style: none;
+
+    /* ボタンの影の指定
+     * 影の横幅を2px
+     * 縦長を2px
+     * ぼかしを3px
+     * 広がりを1px
+     * 色を#666（グレー）に指定 */
+    box-shadow: 2px 2px 3px 1px #666;
+    -moz-box-shadow: 2px 2px 3px 1px #666;
+    -webkit-box-shadow: 2px 2px 3px 1px #666;
+}
+
+button.button:hover {
+    /* 背景色を明るい青色に指定 */
+    background-color: #24d;
+
+    /* 文字色を白色に指定 */
+    color: #fff;
+}
+
+input.enter {
+    /*インプットボタンに書式を反映*/
+    -webkit-appearance: none;
+
+    /*ボタンのサイズ*/
+    width: 120px;
+
+    /* 文字サイズを1.4emに指定 */
+    font-size: 1.0em;
+
+    /*ボタン内の文字の中央揃え */
+    text-align: center;
+
+    /* 文字の太さをboldに指定 */
+    font-weight: bold;
+
+    /* 縦方向に10px、
+     * 横方向に30pxの余白を指定 */
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+    /* 背景色を濃い青色に指定 */
+    background-color: #248;
+
+    /* 文字色を白色に指定 */
+    color: #fff;
+
+    /* ボーダーをなくす */
+    border-style: none;
+
+    /* ボタンの影の指定
+     * 影の横幅を2px
+     * 縦長を2px
+     * ぼかしを3px
+     * 広がりを1px
+     * 色を#666（グレー）に指定 */
+    box-shadow: 2px 2px 3px 1px #666;
+    -moz-box-shadow: 2px 2px 3px 1px #666;
+    -webkit-box-shadow: 2px 2px 3px 1px #666;
+}
+
+input.enter:hover {
+    /* 背景色を明るい青色に指定 */
+    background-color: #24d;
+
+    /* 文字色を白色に指定 */
+    color: #fff;
+}
+
+input.private {
+    /*インプットボタンに書式を反映*/
+     -webkit-appearance: none;
+
+     /*配置を中央寄せ*/
+     margin-left: auto;
+     margin-right: auto;
+
+    /* 文字サイズを1.4emに指定 */
+    font-size: 1.4em;
+
+    /* 文字の太さをboldに指定 */
+    font-weight: bold;
+
+    /* 縦方向に10px、
+     * 横方向に30pxの余白を指定 */
+    padding: 10px 10px;
+
+    /* 背景色を濃い青色に指定 */
+    background-color: #248;
+
+    /* 文字色を白色に指定 */
+    color: #fff;
+
+    /* ボーダーをなくす */
+    border-style: none;
+
+    /* ボタンの影の指定
+     * 影の横幅を2px
+     * 縦長を2px
+     * ぼかしを3px
+     * 広がりを1px
+     * 色を#666（グレー）に指定 */
+    box-shadow: 2px 2px 3px 1px #666;
+    -moz-box-shadow: 2px 2px 3px 1px #666;
+    -webkit-box-shadow: 2px 2px 3px 1px #666;
+}
+
+input.private:hover {
+    /* 背景色を明るい青色に指定 */
+    background-color: #24d;
+
+    /* 文字色を白色に指定 */
+    color: #fff;
+}

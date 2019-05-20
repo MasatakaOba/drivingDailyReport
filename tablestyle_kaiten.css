@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+thead{
+	display: block;
+	float: left;
+}
+
+tbody{
+	display: block;
+	/*width: auto;*/
+	overflow-x: auto;
+	white-space: nowrap;
+}
+
+th{
+	display: block;
+}
+
+td{
+	display: block;
+}
