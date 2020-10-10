@@ -67,7 +67,7 @@ CREATE TABLE `driverecord` (
 - Upload all files in this repository to the server which you like and set the details to connect to MySql (mysql_login.php)
 - Start from `login.php`
 
-I would say that you will be abel to use after avobe setup.
+I would say that you will be able to use after above setup.
 
 #  GoogleMap image display function
 
@@ -85,4 +85,4 @@ This software is released under the MIT License, see LICENSE.
 Masataka Oba
 
 # TO DO
-Sorry, I know I should reduce a lot of files and divide hierarchy, so I promise to refactor this application soon...
+Sorry, I know I should reduce a lot of files and divide hierarchy, so I promise to refactor this application someday...
